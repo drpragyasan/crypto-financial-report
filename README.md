@@ -9,6 +9,7 @@ Generate an HTML financial report using existing python libraries available. The
 
 ## Data
 85 Mb file with coin historical data from 2018 Nov.
+
 Attributes: created_at,	open,	high,	low,	price,	volume,	amount,	symbol,	exchange,	timestamp,	date
 
 
