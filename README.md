@@ -12,7 +12,7 @@ Generate an HTML financial report using existing python libraries available. The
 
 Attributes: created_at,	open,	high,	low,	price,	volume,	amount,	symbol,	exchange,	timestamp,	date
 
-## Arrtifacts
+## Artifacts
 1. Jupyter notebook - python code
 2. HTML Template -  used for creating HTML report using Jinja 2 library
 3. final report - coin-financial-report.html
@@ -29,9 +29,9 @@ Attributes: created_at,	open,	high,	low,	price,	volume,	amount,	symbol,	exchange
 ## How to run
 1. Download the Notebook and load it in your Jupyter Lab.
 2. Place the data and template.html in the same diretory as the jupyter notbook.
-3. Execute the cels.
+3. Execute the cells.
 
 ## Output
 1. An HTML financial report is generated using the template.html file.
 2. Images in the report are taken from the jupyter notebook.
-3. To load the images in the HTML report, place them in the same directory as the report coin-financial-report.html.
+3. To load the images in the HTML report, place them in the same directory as the report "coin-financial-report.html".
