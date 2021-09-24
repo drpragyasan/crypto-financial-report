@@ -7,6 +7,10 @@ Vinter assignment -  Coin performance and liquidity analysis
 ## Problem Statement
 Generate an HTML financial report using existing python libraries available. The report should have the historical performance of the different symbols included in the data set. Additionally, a liquidity analysis should be done for the top10 biggest coins by market capitalization based on the list from https://coinmarketcap.com/.
 
+## Data
+85 Mb file with coin historical data from 2018 Nov.
+Attributes: created_at,	open,	high,	low,	price,	volume,	amount,	symbol,	exchange,	timestamp,	date
+
 
 ## How to run
 Download the Note book load it in your Jupyter Lab.
